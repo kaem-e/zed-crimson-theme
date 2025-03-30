@@ -1,0 +1,7 @@
+id = "zed-crimson-theme"
+name = "Crimson Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Kaem Viotto <kaemviotto@icloud.com>"]
+description = "A Theme inspired by the recent t3.chat Redesign"
+repository = "https://github.com/kaem-e/zed-crimson-theme"
