@@ -15,7 +15,6 @@
 				"pane_group.border": "#08070a60",
 
 				"border.focused": "#db2777",
-
 				"border.selected": "#3e3547",
 				"border.transparent": "#3e354750",
 				"border.disabled": "#241f2980",
@@ -279,8 +278,8 @@
 						"font_weight": null
 					},
 					"hint": {
-						"color": "#8bb2e0",
-						"font_style": null,
+						"color": "#60526d",
+						"font_style": "italic",
 						"font_weight": null
 					},
 					"keyword": {
@@ -427,7 +426,7 @@
 			"style": {
 				"background": "#f7f2fa",
 				"background.appearance": "opaque",
-				"border": "#6c0ccb40",
+				"border": "#6c0ccb30",
 				"border.variant": "#6c0ccb20",
 				"pane_group.border": "#6c0ccb40",
 				"pane.focused_border": "#cbabd4",
@@ -443,7 +442,7 @@
 				"element.background": "#f7f2fa",
 				"element.hover": "#db3cd405",
 				"element.active": "#f0e3f8",
-				"element.selected": "#db27a410",
+				"element.selected": "#f5e5f5",
 				"element.disabled": "#e4d9ea",
 				"drop_target.background": "#cbabd450",
 				"ghost_element.background": "#f7f2fa",
@@ -535,9 +534,9 @@
 				"terminal.ansi.dim_cyan": "#dc5be1",
 				"terminal.ansi.bright_cyan": "#853787",
 
-				"terminal.ansi.white": "#f2def5",
-				"terminal.ansi.bright_white": "#fde7ff",
-				"terminal.ansi.dim_white": "#bfafc2",
+				"terminal.ansi.white": "#563271",
+				"terminal.ansi.dim_white": "#a299ae",
+				"terminal.ansi.bright_white": "#734297",
 
 				"link_text.hover": "#c51478",
 
@@ -578,7 +577,7 @@
 				"warning.border": "#e69a9680",
 
 				"hidden": "#a289a9",
-				"hidden.background": "#a289a91a",
+				"hidden.background": "#efeaf2",
 				"hidden.border": "#cbabd4",
 
 				"info": "#673c8b",
@@ -586,11 +585,11 @@
 				"info.border": "#5a5561",
 
 				"hint": "#a289a9",
-				"hint.background": "#a289a910",
+				"hint.background": "#efeaf2",
 				"hint.border": "#a289a980",
 
 				"predictive": "#a289a9",
-				"predictive.background": "#a289a91a",
+				"predictive.background": "#efeaf2",
 				"predictive.border": "#cbabd4",
 
 				"renamed": "#90c3e4",
@@ -696,8 +695,8 @@
 						"font_weight": null
 					},
 					"hint": {
-						"color": "#5579bc",
-						"font_style": null,
+						"color": "#a289a9",
+						"font_style": "italic",
 						"font_weight": null
 					},
 					"keyword": {
