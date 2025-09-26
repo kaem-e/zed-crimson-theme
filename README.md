@@ -1,6 +1,6 @@
 # Crimson Theme for Zed
 
-A Theme inspired by the recent [t3.chat](https://t3.chat/) redesign
+A theme inspired by the [t3.chat](https://t3.chat/) redesign colour scheme.
 
 ## Preview
 
